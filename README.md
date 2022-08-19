@@ -16,5 +16,5 @@ Official ACM paper template downloaded from https://chi2023.acm.org/submission-g
 ## Case Studies from Prior CHI Conferences
 
 - Agha et al., 2021. A Case Study on User Experience Bootcamps with Teens to Co-Design Real-Time Online Safety Interventions, DOI: [10.1145/3491101.3503563](https://doi.org/10.1145/3491101.3503563)
-- Dickinson et al., 2021. Machine In The Middle: Exploring Dark Patterns of Emotional Human-Computer Integration Through Media Art, DOI: [10.1145/3491101.3503555](https://doi.org/10.1145/3491101.3503555) **(🏆 CHI2022 Honorable Case Study Recognition)**
+- Dickinson et al., 2021. Machine In The Middle: Exploring Dark Patterns of Emotional Human-Computer Integration Through Media Art, DOI: [10.1145/3491101.3503555](https://doi.org/10.1145/3491101.3503555) **🏆 CHI2022 Honorable Case Study Recognition**
 - Razi et al., 2021. Instagram Data Donation: A Case Study on Collecting Ecologically Valid Social Media Data for the Purpose of Adolescent Online Risk Detection, DOI: [10.1145/3491101.3503569](https://doi.org/10.1145/3491101.3503569)
