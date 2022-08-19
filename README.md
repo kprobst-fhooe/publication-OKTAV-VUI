@@ -1,6 +1,6 @@
 # VUI Design for OKTAV
 
-## Initial Publication Structure
+## Initial Structure
 
 - paper: main-manuscript.tex
 - bibliography: references.bib
