@@ -11,7 +11,7 @@ CHI2023 Case Study https://chi2023.acm.org/for-authors/case-studies
 
 ## Official ACM Template
 
-Official ACM paper template downloaded from https://chi2023.acm.org/submission-guides/chi-publication-formats is part of the project ([acmart-primary](acmart-primary) folder). It contains a number of sample publications, including sample-manuscript.tex upon which the main file is based.
+Official ACM paper template downloaded from https://chi2023.acm.org/submission-guides/chi-publication-formats is part of the project ([acmart-primary](acmart-primary) folder). It contains a number of sample publications, including [sample-manuscript.tex](acmart-primary/samples/sample-manuscript.tex) upon which the main file is based.
 
 ## Inspiration
 
