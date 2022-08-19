@@ -1,1 +1,2 @@
-# paper-VUI-OKTAV
+# publication-OKTAV-VUI
+
