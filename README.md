@@ -1,6 +1,6 @@
 # VUI Design for OKTAV
 
-## Potential venues for publication
+## Potential venue for publication
 CHI2023 Case Study https://chi2023.acm.org/for-authors/case-studies
 
 ## Initial Structure
