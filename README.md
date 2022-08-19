@@ -12,7 +12,7 @@ Official ACM paper template downloaded from https://chi2023.acm.org/submission-g
 
 ## CHI2023
 
-Potential submission deadline: [CHI2023 Case Studies](https://chi2023.acm.org/for-authors/case-studies) (October 13, 2022)
+Potential submission deadline: **[CHI2023 Case Studies](https://chi2023.acm.org/for-authors/case-studies) (October 13, 2022)**
 
 Some exampls of case studies from prior CHI conferences (more to be added...)
 
